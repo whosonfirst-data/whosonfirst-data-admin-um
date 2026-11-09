@@ -33,7 +33,7 @@
         "gn:id":5854945
     },
     "wof:country":"UM",
-    "wof:geomhash":"e12a9397811d947b4f62d9675a77b97d",
+    "wof:geomhash":"4c0163e41c8dba08bc390cda61ad2dc1",
     "wof:hierarchy":[
         {
             "dependency_id":85632333,
@@ -56,5 +56,5 @@
     -160.00453000000005,
     -0.37027
 ],
-  "geometry": {"coordinates":[-160.00453000000005,-0.37027],"type":"Point"}
+  "geometry": {"coordinates":[-160.00453,-0.37027],"type":"Point"}
 }
